@@ -6,9 +6,7 @@ package go1
 
 // This benchmark test the performance of AND operations on 32-bit ARM.
 
-import (
-	"testing"
-)
+import "testing"
 
 var a []uint32
 
