@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // This benchmark tests the performance of dense mul-sub operations.
-// It shows the improvement in https://go-review.googlesource.com/c/go/58950
+// It shows the improvement in https://go-review.googlesource.com/c/go/+/58950
 
 package go1
 

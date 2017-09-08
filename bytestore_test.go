@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // This benchmark tests the performance for dense byte store operations.
-// It shows the improvement in https://go-review.googlesource.com/c/go/58450
+// It shows the improvement in https://go-review.googlesource.com/c/go/+/58450
 
 package go1
 
