@@ -4,7 +4,8 @@
 
 package go1
 
-// benchmark for testing performance of bit field extraction.
+// This benchmark tests the performance of bit field extraction.
+// It shows improvement in https://go-review.googlesource.com/#/c/go/+/64950
 
 import (
 	"testing"
