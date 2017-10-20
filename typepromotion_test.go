@@ -4,7 +4,8 @@
 
 package go1
 
-// benchmark
+// This benchmark tests the performance of type promotion.
+// It shows the improvement in https://go-review.googlesource.com/c/go/+/71992
 
 import (
 	"testing"
