@@ -32,7 +32,7 @@ func bfx() {
 
 func BenchmarkBFX(b *testing.B) {
 	for i := 0; i < b.N; i++ {
-		for j := 0; j < 3096; j++ {
+		for j := 0; j < 4096; j++ {
 			bfx()
 		}
 	}
