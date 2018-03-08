@@ -2,8 +2,8 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// This benchmark tests the performance of dense -(a*b) calculations.
-// It shows the improvement of https://go-review.googlesource.com/c/go/+/95075
+// This benchmark tests the performance of dense -(a*b) calculations, b = 7*pow(2, n).
+// It shows the improvement of https://go-review.googlesource.com/c/go/+/99495
 
 package go1
 
