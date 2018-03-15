@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // This benchmark tests the performance of frequent -(a*b) calculations.
-// It shows the improvement in https://go-review.googlesource.com/c/go/+/61150
+// It shows the improvement in https://go-review.googlesource.com/c/go/+/100855
 
 package go1
 
